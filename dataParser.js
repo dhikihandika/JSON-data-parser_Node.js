@@ -5,9 +5,7 @@
 // Its code program which show different about JSON.stringify() and JSON.parse() in command terminal
 // -------------------------------------------------------------------------//
 // author   = dhikihandika
-// contact  = (+) 085874783049
-//     c      (+) dhikihandikatama
-// emmail   = dhikihandika36@gmail.com
+// email    = dhikihandika36@gmail.com
 
 
 // Define variable "data" is a JSON format
