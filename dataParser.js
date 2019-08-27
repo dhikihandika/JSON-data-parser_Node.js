@@ -16,7 +16,7 @@ function dataparsing (){                                            // its a dat
     var parser1 = JSON.stringify(data);                             // define variable "parser1" is a JSON method convert JavaScipt Objet to string                                           // 
     var parser2 = JSON.parse(data);                                 // define variable "parser2" is a JSON method convert string to JavaScript Object
 
-    // result its show on Command Termianl
+    // result its show on console screen
     console.log("Result of parsing object to string JSON file: ");
     console.log(parser1);
     console.log("Result of parsing string to object JSON file: ");
